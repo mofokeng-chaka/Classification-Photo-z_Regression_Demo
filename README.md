@@ -26,4 +26,4 @@ Run all the cells in the notebook to make sure all the dependencies are installe
 
 #### Step 3. Improving results
 
-Last step, after completion step 2 the optimization step. Tweak the parameters of the models (defined under *_classifier* and *_regressor* functions) to produce optimal results 
+Last step, after completion step 2 is the optimization step. To optimize, tweak the parameters of the models (defined under *_classifier* and *_regressor* functions) to produce optimal results 
