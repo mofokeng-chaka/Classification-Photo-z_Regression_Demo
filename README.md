@@ -1,6 +1,6 @@
 # Classification and Photo-z Regression of Astronomical Sources 
 
-<img alt="Screenshot 2020-07-30 at 19 36 29" src="https://user-images.githubusercontent.com/42966715/88962852-4eb3d080-d2a7-11ea-9b65-9ce540415c1a.png" width="455"/><img alt="photo-z" src="https://user-images.githubusercontent.com/42966715/88967085-99384b80-d2ad-11ea-867b-41dd81bc38c3.png" width="375"/> 
+<img alt="Screenshot 2020-07-30 at 19 36 29" src="https://user-images.githubusercontent.com/42966715/88962852-4eb3d080-d2a7-11ea-9b65-9ce540415c1a.png" width="455"/><img width="375" alt="Screenshot 2020-10-22 at 09 45 57" src="https://user-images.githubusercontent.com/42966715/96848520-d3505e00-1454-11eb-822f-7473cabc79aa.png">
 
 This tutorial uses two machine learning algorithms: random forest and k-nearest neighbour classifiers to classify three different classes (stars, galaxies and quasars) and also estimate photometric redshifts (for galaxies and quasars) by using colour magnitudes as features to learn. The reference dataset uses the corrected photometric magnitudes from SDSS together with the corresponding WISE magnitudes. 
 
