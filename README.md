@@ -4,7 +4,7 @@
 
 This tutorial uses two machine learning algorithms: random forest and k-nearest neighbour classifiers to classify three different classes (stars, galaxies and quasars) and also estimate photometric redshifts (for galaxies and quasars) by using colour magnitudes as features to learn. The reference dataset uses the corrected photometric magnitudes from SDSS together with the corresponding WISE magnitudes. 
 
-The tutorial uses a reference dataset : **sdss_all_small_dr16_allwise_red.fits.gz** - https://drive.google.com/file/d/1_c1IyvpbT-v3LRuho3rNQPMCWDD24Hde/view?usp=sharing
+The tutorial uses a reference dataset : **sdss_all_small_dr16_allwise_red.fits.gz** - https://drive.google.com/file/d/1ljutewiejnx_hWujvNY9SzmQm7NnIsXa/view?usp=sharing
 
 ### Dependencies
 
